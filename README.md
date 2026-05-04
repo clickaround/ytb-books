@@ -4,6 +4,9 @@
 - [2026-05-01] http://168.107.56.106/clickaround/blog/2026-05-01-ytb-books.html
 
 
+- [2026-05-02] New: http://168.107.56.106/clickaround/blog/2026-05-02-ytb-books.html
+
+
 ## Latest posts
 
-- [2026-05-02] New: http://168.107.56.106/clickaround/blog/2026-05-02-ytb-books.html
+- [2026-05-04] New: http://168.107.56.106/clickaround/blog/2026-05-04-ytb-books.html
